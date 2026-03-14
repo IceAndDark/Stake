@@ -1,2 +1,2 @@
 # Stake
-sample
+Lock coins securely
